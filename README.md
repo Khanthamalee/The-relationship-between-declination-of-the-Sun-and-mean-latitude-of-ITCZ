@@ -20,19 +20,7 @@ fileadd
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -284,19 +272,7 @@ fileadd_subset
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -429,7 +405,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+ !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/plt-ITCZ%20and%20Declination.png" width="500" style="max-width: 100%;">
     
 
 
@@ -445,19 +421,7 @@ ITCZdown
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -709,19 +673,7 @@ ITCZdown_subset
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -864,7 +816,7 @@ print('error =', 100 -r2_score(m,myModel(k))*100 )
 
 
     
-![png](output_13_1.png)
+ !<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/polynomial-ITCZ%20and%20Declination.png" width="500" style="max-width: 100%;">
     
 
 
@@ -884,19 +836,7 @@ ITCZup
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1148,19 +1088,7 @@ ITCZup_subset
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1301,8 +1229,8 @@ print('error =', 100 -r2_score(p,myModel(o))*100 )
     
 
 
-    
-![png](output_19_1.png)
+!<img src="https://github.com/Khanthamalee/The-relationship-between-declination-of-the-Sun-and-mean-latitude-of-ITCZ/blob/main/polynomial-ITCZup%20and%20Declination.png" width="500" style="max-width: 100%;">
+
     
 
 
