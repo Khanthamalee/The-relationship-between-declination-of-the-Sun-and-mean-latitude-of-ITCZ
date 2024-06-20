@@ -95,7 +95,7 @@ ITCZup_subset=ITCZup[['Order','date_order','date','formpixel','ITCZdegree','decl
 ITCZup_subset
 
 
-# # 3.2 Polinomials regression ITCZdown
+# # 3.2 Polinomials regression ITCZup
 
 # In[10]:
 
